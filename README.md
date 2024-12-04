@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 1. GIT
-2. ANACONDA NAVIGATOR
-3. DATASET TO RUN THE NEURAL NETWORK ALGORITHM
+2. Anaconda Navigator
+3. Dataset to run the test
 
 # Installing
 
