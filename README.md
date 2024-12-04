@@ -1,6 +1,6 @@
-# Artificial Neural Networks
+# Neural Networks (NN)
 
-An Artificial Neural Network (ANN) is a concept in artificial intelligence inspired by the structure and functioning of biological neural networks in the human brain. Similar to the human brain which consists of neurons interconnected in complex networks to communicate and learn, ANNs are made up of interconnected units called nodes that work together in various layers to process information. By mimicking the way neurons collaborate in the brain, ANNs are designed to enable computers to understand information, solve problems, and make decisions in a way that resembles human thought processes.
+An Artificial Neural Network or Neural Networks (ANN or NN) is a concept in artificial intelligence inspired by the structure and functioning of biological neural networks in the human brain. Similar to the human brain which consists of neurons interconnected in complex networks to communicate and learn, ANNs are made up of interconnected units called nodes, that work together in various layers to process information. By mimicking the way neurons collaborate in the brain, ANNs are designed to enable computers to understand information, solve problems, and make decisions in a way that resembles human thought processes.
 
 # Getting Started
 
